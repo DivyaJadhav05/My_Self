@@ -19,7 +19,7 @@
 
 ##  GitHub Stats
 
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyaJadhav05&show_icons=true&theme=default)  
+![Divya's GitHub Stats](https://github.com/DivyaJadhav05)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaJadhav05&layout=compact)
 
 ---
