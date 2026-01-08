@@ -2,7 +2,8 @@
 
 🎓 3rd-year Electronics and Telecommunication Engineering student  
 💡 Passionate about building real-world tech using software & hardware  
-💻 Currently learning: Data Structures & Algorithms, Full Stack Development  
+💻 Currently learning: Data Structures & Algorithms, Full Stack Development 
+
 🌱 Exploring: Web Development 
 🤝 Open to internships, open-source contributions & tech collaborations
 
@@ -20,6 +21,7 @@
 ##  GitHub Stats
 
 ![Divya's GitHub Stats](https://github.com/DivyaJadhav05)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaJadhav05&layout=compact)
 
 ---
