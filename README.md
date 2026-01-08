@@ -3,8 +3,8 @@
 🎓 3rd-year Electronics and Telecommunication Engineering student  
 💡 Passionate about building real-world tech using software & hardware  
 💻 Currently learning: Data Structures & Algorithms, Full Stack Development 
-
 🌱 Exploring: Web Development 
+
 🤝 Open to internships, open-source contributions & tech collaborations
 
 ---
