@@ -12,7 +12,7 @@
 
 - **Languages:** C, C++, Java 
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js  
-- **Tools & Platforms:** Git, GitHub, VS Code 
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Netbeans
 - **Domains:** IoT, Web Dev, DBMS, CN
 
 ---
